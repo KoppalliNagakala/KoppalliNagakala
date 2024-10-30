@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagakala Koppalli</h1>
-<h3 align="center">An Information technology student interested in Machine learning and Java Programming.</h3>
-
-- 🌱 I’m currently learning **Advanced Java Programming**
+<h3 align="center">An Information technology student interested in Machine learning, Python and Java Programming.</h3>
 
 - 📫 How to reach me **kalakoppalli@gmail.com**
 
